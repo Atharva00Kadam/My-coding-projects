@@ -1,5 +1,3 @@
-#random marine fact generator
-#educational quiz on mathematics
 print("Welcome to Atharva's Random Marine Fact Generator!"
       "\nType in a number of your choice and generate yourself an awesome fact!")
 import random
